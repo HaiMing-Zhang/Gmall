@@ -1,0 +1,8 @@
+com\atguigu\gmall\config\CookieUtil.class
+com\atguigu\gmall\config\WebConst.class
+com\atguigu\gmall\config\WebMvcConfiguration.class
+com\atguigu\gmall\config\HttpClientUtil.class
+com\atguigu\gmall\config\LoginRequire.class
+com\atguigu\gmall\config\JwtUtil.class
+com\atguigu\gmall\config\AuthInterceptor.class
+com\atguigu\gmall\config\CheckPriceRequire.class
